@@ -1,0 +1,32 @@
+aid: black-history-facts
+name: Black History Facts
+description: "Contribute or search one of the largest black history fact databases on the web"
+url: https://www.blackhistoryapi.io/docs
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Open Data"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Open Data
+  - Public APIs
+apis:
+  - name: Black History Facts
+    description: "Contribute or search one of the largest black history fact databases on the web"
+    humanURL: https://www.blackhistoryapi.io/docs
+    baseURL: https://www.blackhistoryapi.io/docs
+    tags:
+      - Open Data
+    properties:
+      - type: Documentation
+        url: https://www.blackhistoryapi.io/docs
+common:
+  - type: Website
+    url: https://www.blackhistoryapi.io/docs
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
