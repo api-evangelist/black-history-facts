@@ -39,7 +39,6 @@ apis:
   - name: Black History Facts
     description: "Contribute or search one of the largest black history fact databases on the web"
     humanURL: https://www.blackhistoryapi.io/docs
-    baseURL: https://www.blackhistoryapi.io/docs
     tags:
       - Open Data
     properties:
